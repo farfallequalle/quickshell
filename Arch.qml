@@ -1,6 +1,6 @@
 import QtQuick
 
 Text {
-    text: ""
+    text: "󰣇"
     font.pointSize: 12
 }
