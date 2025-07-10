@@ -1,2 +1,1 @@
-# quickshell
-# quickshell
+i am so sorry for whoever checks this out.
